@@ -1,8 +1,14 @@
 # Roberto Selles
-<img src="https://badgen.net/static/C++/20/blue"/> <img src="https://badgen.net/badge/icon/typescript?icon=typescript&label"/> <img src="https://badgen.net/badge/icon/terminal?icon=terminal&label"/>
+![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&labelColor=grey)
+![Static Badge](https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=Lua&labelColor=gray)
+
+![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=gray)
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&labelColor=gray)
+![Static Badge](https://img.shields.io/badge/Node.JS-green?style=for-the-badge&logo=node.js&labelColor=gray)
+![Static Badge](https://img.shields.io/badge/Vue.JS-green?style=for-the-badge&logo=vue.js&labelColor=gray)
 
 ## About Me
-I am a second year engineering student who currently programs with C++, Typescript, and some Lua. I can also comfortably code in Matlab, Python, and C#. I have a hobby for programming videogames, libraries, and other related projects. My current main goal is to build a game engine for 2.5D games because that is a graphical style that I have adored for years, even if it takes me forever to build something like that.
+I am a computer engineering student who currently programs with C++, and TypeScript. I can also comfortably code in Matlab, Python, and C#. I have a hobby for programming videogames, libraries, and other related projects. My current main goal is to build a game engine for 2.5D games because that is a graphical style that I have adored for years, even if it takes me forever to build something like that.
 
 I also have a hobby for archery and music :D
 
