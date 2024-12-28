@@ -23,5 +23,5 @@ These are the projects I have completed in some form or I am still updating.
 
 ### Private Projects
 These are projects that you will not be able to see the source code for, but I am also a developer in.
-- [SFU Robot Soccer Website](https://sfurobotsoccer.com/) - Although I am not the original programmer of the website, I am currently maintaining it, and planning to design a new one to be released in the future.
+- [SFU Robot Soccer Website](https://sfurobotsoccer.com/) - Maintained this website from January 2024 to April 2024
   - The current version uses Svelte, TypeScript, and CSS
