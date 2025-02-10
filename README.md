@@ -13,15 +13,23 @@ I am a computer engineering student who currently programs with C++, and TypeScr
 
 I also have a hobby for archery and music :D
 
-## Relevant Projects
-These are the projects I have completed in some form or I am still updating.
+## Current Projects
+These are the projects I am working on currently, or are likely on break but will come back to in the future
+- [Triple-M (npm package)](https://github.com/Henderythmix/triple-m) - A Markup language that compiles into HTML for static pages that do not need as much javascript.
+
+### MesaGuilde
+[MesaGuilde](https://github.com/MesaGuildeTeam) is a casual startup software team of close connections (mainly friends) with a goal of sharing games that we think can be fun. 
+Although all the projects are currently private, here are the projects that I lead
+- WASM Game Engine - a web first game engine in C++ that takes advantage of the HTML DOM.
+  - The goal of this project is to develop a game engine that can potentially be easily distributable by making it a web first game engine
+- MesaGuilde website
+
+## Retired Projects
+These projects are very likely short term projects, or long terms that I have stopped working on and are no longer maintained. These are not as important as they are old, but they are a representation of me actually working on projects in the past
 - [Snakelock (Game)](https://github.com/Henderythmix/Snakelock) - A game made in C++ and raylib during a week-long game jam after 2 months of experience. ~~Scored 2nd Place~~
 - [Mariana's Trench (Game)](https://github.com/Henderythmix/MarianasTrench) - A C++/Raylib game for Brackeys Jam 2023.2 used to experiment with making a framework for game development
-- [Triple-M (npm package)](https://github.com/Henderythmix/triple-m) - A Markup language that compiles into HTML for static pages that do not need as much javascript.
-- [ESSS Website](https://github.com/sfuesss/website/tree/Revision2023) - As a Director of Website at Simon Fraser University's Engineering Science Student Society, I revised the website. This version was deployed as of Fall 2023.
+- [ESSS Website](https://github.com/sfuesss/website/tree/Revision2025) - As a Director of Website at Simon Fraser University's Engineering Science Student Society, I revised the website. This version was deployed as of Fall 2023.
   - This version is currently programmed with Triple-M, SCSS, and Javascript
-
-### Private Projects
-These are projects that you will not be able to see the source code for, but I am also a developer in.
+  - The most recent branch I worked on was Revision2025 before I resigned the position due to personal reasons that made me decide I do not have time to work on this.
 - [SFU Robot Soccer Website](https://sfurobotsoccer.com/) - Maintained this website from January 2024 to April 2024
-  - This version used Svelte, TypeScript, and CSS
+  - This version used Svelte, TypeScript, and CS
