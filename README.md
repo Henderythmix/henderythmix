@@ -20,8 +20,9 @@ These are the projects I am working on currently, or are likely on break but wil
 ### MesaGuilde
 [MesaGuilde](https://github.com/MesaGuildeTeam) is a casual startup software team of close connections (mainly friends) with a goal of sharing games that we think can be fun. 
 Although all the projects are currently private, here are the projects that I lead
-- WASM Game Engine - a web first game engine in C++ that takes advantage of the HTML DOM.
+- [Carpenter Engine](https://github.com/MesaGuildeTeam/Carpenter-Engine) - a C++ Game Engine with a "build once, run anywhere" approach to game development
   - The goal of this project is to develop a game engine that can potentially be easily distributable by making it a web first game engine
+  - Unlike other game engines and frameworks with this approach, everything is already OOP and scene based and is compiler based offering a faster experience
 - MesaGuilde website
 
 ## Retired Projects
