@@ -1,9 +1,9 @@
 # Roberto Selles
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&labelColor=grey)
-![Static Badge](https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=Lua&labelColor=gray)
-![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=gray)
+![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=grey)
+![Static Badge](https://img.shields.io/badge/Haxe-ED8B00?style=for-the-badge&logo=haxe&logoColor=white&labelColor=grey)
+
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&labelColor=gray)
 ![Static Badge](https://img.shields.io/badge/Node.JS-green?style=for-the-badge&logo=node.js&labelColor=gray)
 ![Static Badge](https://img.shields.io/badge/Vue.JS-green?style=for-the-badge&logo=vue.js&labelColor=gray)
@@ -22,7 +22,7 @@ These are the projects I am working on currently, or are likely on break but wil
 Although all the projects are currently private, here are the projects that I lead
 - [Carpenter Engine](https://github.com/MesaGuildeTeam/Carpenter-Engine) - a C++ Game Engine with a "build once, run anywhere" approach to game development
   - The goal of this project is to develop a game engine that can potentially be easily distributable by making it a web first game engine
-  - Unlike other game engines and frameworks with this approach, everything is already OOP and scene based and is compiler based offering a faster experience
+  - Originally written in C++ and JavaScript, the framework is in the progress of being ported to Haxe and compiled to these platforms
 - MesaGuilde website
 
 ## Retired Projects
